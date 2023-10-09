@@ -13,7 +13,7 @@ li {
   list-style: none;
 }
 
-.heading, .main_project .main_column .col_3 h1, .main_project .main_column .col_2 h1, .main_project .main_column .col_1 h1 {
+.heading, .main_project .main_column .col_3 h2, .main_project .main_column .col_2 h2, .main_project .main_column .col_1 h2 {
   font-family: "Big Shoulders Display", cursive;
   color: #fff;
   margin-top: 40px;
